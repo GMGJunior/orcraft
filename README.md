@@ -1,1 +1,29 @@
-# orcraft
+# Orcraft
+
+Orcraft is a GUI-first orchestration platform for running, validating, and analyzing tests and executions across remote machines.
+
+The system provides centralized control for:
+- Selecting machines and execution targets
+- Configuring run parameters
+- Monitoring live and historical logs
+- Re-running executions
+- Viewing aggregated statistics and results
+
+## Project status
+
+This repository is **public but does not contain source code**.
+
+The Orcraft source code is proprietary and maintained in private repositories.  
+This repository exists to establish the project identity and may later host:
+- Public documentation
+- Issue tracking
+- Release notes
+
+## License
+
+All rights reserved.  
+No license is granted to use, modify, or distribute the software.
+
+## Website
+
+https://orcraft.app
