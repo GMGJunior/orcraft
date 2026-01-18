@@ -23,6 +23,7 @@ This repository exists to establish the project identity and may later host:
 
 All rights reserved.  
 No license is granted to use, modify, or distribute the software.
+The Orcraft name, logo, and branding assets are proprietary and may not be used without prior written permission.
 
 ## Website
 
