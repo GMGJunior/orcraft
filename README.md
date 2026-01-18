@@ -1,6 +1,6 @@
 # Orcraft
 
-Orcraft is a GUI-first orchestration platform for running, validating, and analyzing tests and executions across remote machines.
+Orcraft is an orchestration platform for validation and engineering teams, offering a structured test framework and multi-mode execution via GUI, CLI, and CI/CD pipelines, with centralized logging and execution analysis.
 
 The system provides centralized control for:
 - Selecting machines and execution targets
