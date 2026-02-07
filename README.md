@@ -1,6 +1,6 @@
-# Orcraft<sup style="font-size:0.35em;">TM</sup>
+# Orcraft™
 
-Orcraft<sup style="font-size:0.35em;">TM</sup> is an orchestration platform for validation and engineering teams, offering a structured test framework and multi-mode execution via GUI, CLI, and CI/CD pipelines, with centralized logging and execution analysis.
+Orcraft™ is an orchestration platform for validation and engineering teams, offering a structured test framework and multi-mode execution via GUI, CLI, and CI/CD pipelines, with centralized logging and execution analysis.
 
 The system provides centralized control for:
 - Selecting machines and execution targets
