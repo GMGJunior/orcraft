@@ -13,7 +13,7 @@ The system provides centralized control for:
 
 This repository is **public but does not contain source code**.
 
-The Orcraft source code is proprietary and maintained in private repositories.  
+The Orcraft™ source code is proprietary and maintained in private repositories.  
 This repository exists to establish the project identity and may later host:
 - Public documentation
 - Issue tracking
@@ -23,7 +23,7 @@ This repository exists to establish the project identity and may later host:
 
 All rights reserved.  
 No license is granted to use, modify, or distribute the software.  
-The Orcraft name, logo, and branding assets are proprietary and may not be used without prior written permission.
+The Orcraft™ name, logo, and branding assets are proprietary and may not be used without prior written permission.
 
 ## Website
 
